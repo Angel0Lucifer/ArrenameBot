@@ -1,8 +1,8 @@
 '''
 RenameBot
-This file is a part of mrvishal2k2 rename repo 
+This file is a part of holyangel rename repo 
 Dont kang !!!
-© Mrvishal2k2
+© HolyAngel
 '''
 
 __author__ = "HolyAngel"
